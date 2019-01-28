@@ -2,7 +2,7 @@
     "name": "photophobia",
     "displayName": "Photophobia",
     "description": "VSC theme for the photophobic",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "leegee",
     "engines": {
         "vscode": "^1.30.0"
