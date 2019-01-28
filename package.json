@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.30.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:leegee/theme-photophobia.git"
+    },
     "categories": [
         "Themes"
     ],
